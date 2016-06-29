@@ -1,7 +1,7 @@
 ro.build.product=OnePlus3
 ro.product.device=OnePlus3
-ro.build.description=OnePlus3-user 6.0.1 MMB29M 4 dev-keys
-ro.build.fingerprint=OnePlus/OnePlus3/OnePlus3:6.0.1/MMB29M/213690:user/release-keys
+ro.build.description=OnePlus3-user 6.0.1 MMB29M 31 dev-keys
+ro.build.fingerprint=OnePlus/OnePlus3/OnePlus3:6.0.1/MMB29M/288280:user/release-keys
 
 # Audio
 ro.qc.sdk.audio.ssr=false
