@@ -25,7 +25,7 @@
    "branch":      "cm-13.0"
  },
  {
-   "repository": "Grarak/proprietary_vendor_oneplus",
+   "repository": "TheMuppets/proprietary_vendor_oneplus",
    "target_path": "vendor/oneplus",
    "branch":      "cm-13.0"
  }
