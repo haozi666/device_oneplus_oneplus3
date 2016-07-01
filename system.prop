@@ -1,7 +1,7 @@
 ro.build.product=OnePlus3
 ro.product.device=OnePlus3
-ro.build.description=OnePlus3-user 6.0.1 MMB29M 4 dev-keys
-ro.build.fingerprint=OnePlus/OnePlus3/OnePlus3:6.0.1/MMB29M/213690:user/release-keys
+ro.build.description=OnePlus3-user 6.0.1 MMB29M 31 dev-keys
+ro.build.fingerprint=OnePlus/OnePlus3/OnePlus3:6.0.1/MMB29M/288280:user/release-keys
 
 # Audio
 ro.qc.sdk.audio.ssr=false
@@ -79,8 +79,12 @@ sdm.debug.disable_rotator_split=1
 # NFC
 ro.nfc.port=I2C
 
-# QCOM
+# Perf
 ro.vendor.extension_library=libqti-perfd-client.so
+ro.min_freq_0=307200
+ro.min_freq_2=307200
+
+# QCOM
 ro.frp.pst=/dev/block/bootdevice/by-name/config
 drm.service.enabled=true
 
