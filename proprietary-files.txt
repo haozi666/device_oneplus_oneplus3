@@ -85,6 +85,7 @@ vendor/lib/libmmqjpegdma.so
 vendor/lib/libois_rohm_bu63165gwl.so
 vendor/lib/libqomx_jpegdec.so
 vendor/lib/libqomx_jpegenc_pipe.so
+vendor/lib/libqomx_jpegenc.so
 vendor/lib/libseemore.so
 
 # Camera actuators
